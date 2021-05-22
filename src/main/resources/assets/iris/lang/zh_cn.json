@@ -1,7 +1,7 @@
 {
   "iris.shaders.reloaded": "光影已重载！",
   "iris.keybind.reload": "重载光影",
-  "iris.keybinds": "Iris”， 
+  "iris.keybinds": "Iris",
   "iris.shaders.reloaded.failure": "重载光影失败！原因如下: %s",
 
   "options.iris.apply": "应用",
@@ -15,7 +15,7 @@
   "options.iris.shaderPackSelection.failedAdd": "文件无法被识别为有效的光影包",
   "options.iris.shaderPackSelection.failedAddSingle": "\"%s\" 不是一个有效的光影包",
   "options.iris.shaderPackSelection.copyError": "无法添加光影包 \"%s\"",
-  "options.iris.shaderPackSelection.copyErrorAlreadyExists": "\"%s\" 已经在您的光影包储存文件夹里了!",
+  "options.iris.shaderPackSelection.copyErrorAlreadyExists": "\"%s\" 已经在您的光影包储存文件夹里了！",
 
   "pack.iris.select.title": "选择界面",
   "pack.iris.list.label": "+ 拖拽光影包文件至此以添加"
